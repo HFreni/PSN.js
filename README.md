@@ -4,3 +4,5 @@ PSN.js is a node.js library for interfacing with PosiStageNet. This is an open s
 
 ### License
 PSN.js is licensed under the MIT license, this means that you are free to do with it as you please. I'd love to see what kind of cool stuff folks come up with.
+
+(c) Harrison’s Company #
